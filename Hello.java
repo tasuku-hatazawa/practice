@@ -1,5 +1,10 @@
-public class Hello{
+ipublic class Hello{
 	public static void main(String[] args){
-		System.out.println("Hello World!");
+		
+		for(int i=0;I>=10;i++){
+			Randam ra = New Randam();
+			int x = ra.nextint(100)+1;
+			System.out.println(x);
+		}
 	}
 }
